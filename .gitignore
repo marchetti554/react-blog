@@ -12,6 +12,7 @@
 /docs/export
 /examples/**/.cache
 /packages/material-ui-codemod/lib
+/packages/**
 /packages/material-ui-icons/material-icons/*
 /test/regressions/screenshots
 /test/selenium-output
